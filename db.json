@@ -1,0 +1,73 @@
+{
+  "profesores": [
+    {
+      "nombre": "Jonathan",
+      "apellido": "Yllatupa",
+      "materiales": [
+        {
+          "nombre": "NodeJs desde Cero"
+        },
+        {
+          "nombre": "ReactJs desde Cero"
+        },
+        {
+          "nombre": "Angular desde Cero"
+        }
+      ],
+      "id": "b48b"
+    },
+    {
+      "id": "f060",
+      "nombre": "Camila",
+      "apellido": "Fernandez",
+      "materiales": [
+        {
+          "nombre": "JavaScript desde Cero"
+        },
+        {
+          "nombre": "Matematica Basica"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Grecia",
+      "apellido": "Burga",
+      "promedio": 8.2,
+      "id": "62b1"
+    },
+    {
+      "nombre": "Alizée",
+      "apellido": "Yllatupa",
+      "promedio": 20,
+      "id": "8b39"
+    },
+    {
+      "id": "8dab",
+      "nombre": "Antonella",
+      "apellido": "Yllatupa",
+      "promedio": 17
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJs desde Cero",
+      "duracion": 7,
+      "dificultad": "intermedio",
+      "id": "0e53"
+    },
+    {
+      "nombre": "ReactJs desde Cero",
+      "duracion": 8,
+      "dificultad": "intermedio",
+      "id": "7882"
+    },
+    {
+      "nombre": "Angular desde Cero",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "7cb4"
+    }
+  ]
+}
